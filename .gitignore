@@ -1,0 +1,24 @@
+*.swp
+*.swo
+*.pyc
+*.pyo
+*~
+.DS_Store
+
+# IDEs
+.project
+.pydevproject
+.cproject
+.idea/
+*.iml
+/.metadata
+.settings/
+*.tmp                                                                                          *.bak
+*.swp
+*.sublime-workspace
+.cproject
+.tern-project                                                                                  .vscode
+*.VC.db
+*.VC.VC.opendb
+
+build/
